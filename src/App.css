@@ -8,3 +8,8 @@ button.selected{
   background-color: brown;
   color:#fff;
 }
+
+li{
+  margin: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
